@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi There, I'm astika
 
-<!--
-**AstikaJangkobus/AstikaJangkobus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me;
+- Nama             : Astika Jangkobus
+- Alamat           : Sawang, Soataloara II
+- Tempat,Tgl Lahir : Tahuna, 15 Maret 2003
+- Jenis Kelamin    : Perempuan
+- Status           : Lajang
+- Email            : astikatheresajangkobus@gmail.com
+- Nomor HP         : 08227111####
 
-Here are some ideas to get you started:
+## Education:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. [Politeknik Negerui Nusa Utara] | Sistem Informasi | Manganitu '2021-Sekarang'
+
+### 2. [SMKN 1 Tahuna] | TKJ | Tahuna '2018-2021'
+
+
+<br />
+<br />
